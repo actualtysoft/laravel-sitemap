@@ -10,20 +10,24 @@
             "email": "r@alfamatter.com",
             "role": "Developer",
             "homepage": "https://darumen.com"
+        },
+        {
+            "name": "Steven Van Poeck",
+            "company": "Tysoft S.A.S."
         }
     ],
     "support": {
-        "issues": "https://github.com/Laravelium/laravel-sitemap/issues",
-        "source": "https://github.com/Laravelium/laravel-sitemap",
-        "wiki": "https://github.com/Laravelium/laravel-sitemap/wiki"
+        "issues": "https://github.com/actualtysoft/laravel-sitemap/issues",
+        "source": "https://github.com/actualtysoft/laravel-sitemap",
+        "wiki": "https://github.com/actualtysoft/laravel-sitemap/wiki"
     },
     "require": {
-        "php": ">=7.3",
-        "illuminate/support": "^8.0",
-        "illuminate/filesystem": "^8.0"
+        "php": ">=8.1",
+        "illuminate/support": "^9.0",
+        "illuminate/filesystem": "^9.0"
     },
     "require-dev": {
-        "laravel/framework": "^8.0",
+        "laravel/framework": "^9.0",
         "phpunit/phpunit": "^9.3",
         "orchestra/testbench-core": "^6.0",
         "php-coveralls/php-coveralls" : "^2.2"
